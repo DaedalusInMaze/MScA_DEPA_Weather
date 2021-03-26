@@ -6,6 +6,7 @@ The objective of this exercise is to observe how the city of Chicago changes wit
 
 * [Arpit Parihar](https://github.com/arpitp07)
 * [Jiekai Ma](https://github.com/Jiekai77)
+* [Curtis Zhuang](https://github.com/ethermagcian)
 
 ## Data Sources and Overview
 
