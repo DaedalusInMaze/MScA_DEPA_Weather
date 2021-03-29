@@ -1,12 +1,12 @@
 # Chicago Weather Project
 
-The objective of this exercise is to observe how the city of Chicago changes with and adapts to extreme weather - primarily in the winter months. How temperature, precipitation, wind chill etc. affect crime, administration and ordinance violations will be the core of the project
+The objective of this exercise is to observe how the city of Chicago changes with and adapts to extreme weather - primarily in the winter months. How temperature, precipitation, wind chill etc. affect crime, administration and ordinance violations will be the core of the project. The project is collaborated using Google Cloud Platform service.
 
 ## Contributors
 
 * [Arpit Parihar](https://github.com/arpitp07)
 * [Jiekai Ma](https://github.com/Jiekai77)
-* [Curtis Zhuang](https://github.com/ethermagcian)
+* [Curtis Zhuang](https://github.com/DaedalusInMaze)
 
 ## Data Sources and Overview
 
